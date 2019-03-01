@@ -1,24 +1,17 @@
-# README
+# 招聘网站
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 背景:
 
-Things you may want to cover:
+以美剧"绝命毒师"为主题的招聘网站
 
-* Ruby version
+## 技术栈: 
 
-* System dependencies
+后端使用 Ruby On Rails 搭建起网站框架, 前端使用 Boostrap 与jQuery, 网站部署于 Heroku
 
-* Configuration
+## 功能: 
 
-* Database creation
+实现了公司 HR 与应聘者双重角色用户登录注册, 公司 HR 可以发布,修改,删除, 隐藏招聘信息; 应聘者可以上传简历, 筛选职位
 
-* Database initialization
+## 测试账号:
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+用户名为tmsshikun@gmail.com; 密码为shikun
